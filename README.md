@@ -1,2 +1,2 @@
-# express-todo-server
-Todo app server built with expressjs and mongodb
+# express-demo-server
+A simple expressjs and mongodb server
